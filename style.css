@@ -55,6 +55,7 @@ body {
     background-color: #ffffff;
     width: 100%;
     border: 1px solid lightgray;
+    padding: 5px;
 }
 
 .group:nth-child(1){ /*Há mais de uma classe group, nth-child para se referir ao elemento entre () que corresponde a ordem do elemento da classe*/
